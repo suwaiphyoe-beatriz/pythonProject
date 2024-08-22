@@ -9,7 +9,6 @@ print ("Hello"+ name)
 int_var = 3
 float_var= 23.8
 string_var= " susu"
-
 print (type (int_var))
 print(type(float_var))
 print(type(string_var))
