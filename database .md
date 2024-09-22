@@ -227,7 +227,7 @@
 b. goal_reached
 
 #### Question 3
-delete from goal_reached
+delete from goal_reached;
 
 #### Question 4
 delete from game;
