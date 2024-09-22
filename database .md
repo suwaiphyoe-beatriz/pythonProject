@@ -1,16 +1,16 @@
 Exercise 2 
 
 Question 1
-
 <img width="803" alt="Question 1" src="https://github.com/user-attachments/assets/424a3898-2dc6-4893-9126-6a2f4111c0ae">
 
-Question 2
 
+Question 2
 <img width="571" alt="Question 2" src="https://github.com/user-attachments/assets/ac5d5c5d-0195-4e45-b0ac-eb3e88411565">
 
-Question 3
 
+Question 3
 <img width="654" alt="Screenshot 2024-09-09 at 15 11 18" src="https://github.com/user-attachments/assets/c1b83e29-7574-48ea-b195-db1d24ef6c6f">
+
 
 Question 4
 
