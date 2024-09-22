@@ -1,4 +1,4 @@
-###Exercise 2
+### EXERCISE 2: Single Table Queries
 
 Question 1
 
@@ -56,7 +56,16 @@ Question 10
 <img width="1074" alt="Screenshot 2024-09-09 at 15 38 03" src="https://github.com/user-attachments/assets/aad155a9-9434-464e-a1c8-82255c3fd12b">
 
 
-Exercise 4
+### EXERCISE 3: Multiple Table Queries
+
+# Question 1
+
+<img width="681" alt="Screenshot 2024-09-12 at 11 12 47" src="https://github.com/user-attachments/assets/647bf758-7bc3-4418-b304-b11ae00f6f71">
+
+
+# Question 2
+
+
 
 
 
