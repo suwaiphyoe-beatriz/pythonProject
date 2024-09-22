@@ -203,30 +203,34 @@
 
 #### Question 8
 
-<img width="820" alt="Screenshot 2024-09-15 at 16 47 56" src="https://github.com/user-attachments/assets/e9431c13-844f-4273-9873-e2059edb297a">
+<img width="598" alt="Screenshot 2024-09-15 at 16 50 20" src="https://github.com/user-attachments/assets/7bfebc9e-23c9-4369-b0de-2995882afba5">
 
 
 #### Question 9
 
-<img width="598" alt="Screenshot 2024-09-15 at 16 50 20" src="https://github.com/user-attachments/assets/7bfebc9e-23c9-4369-b0de-2995882afba5">
+<img width="590" alt="Screenshot 2024-09-15 at 16 52 25" src="https://github.com/user-attachments/assets/37f5ab23-20de-4503-a20f-12d7fdc348c1">
 
 
 #### Question 10
 
-<img width="590" alt="Screenshot 2024-09-15 at 16 52 25" src="https://github.com/user-attachments/assets/37f5ab23-20de-4503-a20f-12d7fdc348c1">
+<img width="505" alt="Screenshot 2024-09-15 at 16 54 00" src="https://github.com/user-attachments/assets/364fb260-b99a-4ac0-9d67-a51e0e8cdc18">
 
 
 ### EXERCISE 7: Update Queries
 
 #### Question 1
 
-<img width="505" alt="Screenshot 2024-09-15 at 16 54 00" src="https://github.com/user-attachments/assets/364fb260-b99a-4ac0-9d67-a51e0e8cdc18">
+<img width="527" alt="Screenshot 2024-09-15 at 17 11 26" src="https://github.com/user-attachments/assets/e11160af-8e5e-4a07-aa6a-1cc8f722ca7b">
 
 
 #### Question 2
+b. goal_reached
 
-<img width="527" alt="Screenshot 2024-09-15 at 17 11 26" src="https://github.com/user-attachments/assets/e11160af-8e5e-4a07-aa6a-1cc8f722ca7b">
+#### Question 3
+delete from goal_reached
 
+#### Question 4
+delete from game;
 
 ### EXERCISE 8:Database Design 
 
