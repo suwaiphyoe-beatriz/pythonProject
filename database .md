@@ -36,8 +36,24 @@ Question 6
 
 
 Question 7
+
 <img width="559" alt="Screenshot 2024-09-09 at 15 19 08" src="https://github.com/user-attachments/assets/fdc2de8d-dcf1-4982-af26-39480e8fc589">
 
+
+Question 8
+
+<img width="580" alt="Screenshot 2024-09-09 at 15 21 08" src="https://github.com/user-attachments/assets/8d6b07dd-9329-4acd-997d-0110d64b653c">
+
+
+Question 9
+
+<img width="417" alt="Screenshot 2024-09-09 at 15 23 43" src="https://github.com/user-attachments/assets/34b75f33-0e02-48e0-81ca-fc0d1a73b8a0">
+
+
+
+Question 10
+
+<img width="1074" alt="Screenshot 2024-09-09 at 15 38 03" src="https://github.com/user-attachments/assets/aad155a9-9434-464e-a1c8-82255c3fd12b">
 
 
 
