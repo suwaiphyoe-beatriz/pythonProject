@@ -42,7 +42,7 @@ class ElectricCar(Car):
 
     def drive(self, hours):
         super().drive(hours)
-        self.battery_percentage -= (self.odometer / 100)
+        self.battery_percentage = (self.odometer / 100)
         self.battery_percentage = max(self.battery_percentage, 0)
 
 class GasolineCar(Car):
